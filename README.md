@@ -1,12 +1,12 @@
 <div id="header" align="center">
-   <img src="https://giphy.com/embed/s63Jzew1dfO3j6nndV" width="100"/>
+   <img src="https://giphy.com/embed/s63Jzew1dfO3j6nndV" width="100px"/>
 </div>
 <div id="badges">
   <a href="https://www.linkedin.com/in/george-kharaishvili-54756125b/">
      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="mailto: kharaishvili50@gmail.com">
-     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
   <a href="https://www.youtube.com/channel/UCCa2h2IvjdN2H14aLUm9jug">
      <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
